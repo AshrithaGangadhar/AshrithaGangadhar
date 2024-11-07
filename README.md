@@ -1,6 +1,6 @@
-# 👋 **Ashritha G**
+# **Ashritha G**
 
-## Bioinformatics Analyst | Bioinformatician 
+# Bioinformatics Analyst | Bioinformatician 
 
 ---
 
@@ -60,4 +60,4 @@ Proficient in **Python**, **R**, **Bash scripting**, and applying **statistical 
 
 ---
 
-**Feel free to check out my projects and contributions below!** 👇
+# 👇 **Feel free to check out my projects and contributions below!**
