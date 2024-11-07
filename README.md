@@ -2,8 +2,6 @@
 
 ## Bioinformatics Analyst | Bioinformatician 
 
-📍 **Bengaluru, Karnataka**  
-
 ---
 
 ## 👩‍🔬 About Me
