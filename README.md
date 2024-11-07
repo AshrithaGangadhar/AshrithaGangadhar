@@ -1,6 +1,6 @@
-# 👋 Hi there, I’m **Ashritha G**!
+# 👋 **Ashritha G**
 
-## Bioinformatics Analyst | Bioinformatician | Genome Analyst
+## Bioinformatics Analyst | Bioinformatician 
 
 📍 **Bengaluru, Karnataka**  
 
@@ -59,7 +59,6 @@ Proficient in **Python**, **R**, and **Bash scripting**, I apply **statistical m
 
 - 🔗 [LinkedIn](https://linkedin.com/in/ashrithag)
 - 📧 [ashrithag11@gmail.com](mailto:ashrithag11@gmail.com)
-- 📞 +91 8431562516
 
 ---
 
