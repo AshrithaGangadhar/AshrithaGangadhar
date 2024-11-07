@@ -1,8 +1,8 @@
 <div align="center">
-  
-  **Ashritha G**
-  **Bioinformatics Analyst | Bioinformatician** 
-  
+  **Ashritha G**  
+</div>
+<div align="center">
+  **Bioinformatics Analyst** | **Bioinformatician**
 </div>
 
 ---
