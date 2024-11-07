@@ -7,7 +7,7 @@
   **Bioinformatics Analyst | Bioinformatician**
 </h2>
 
----
+
 
 ## 👩‍🔬 About Me
 
@@ -19,7 +19,7 @@ With a strong background in **Biotechnology** and specialized expertise in **Bio
 
 Proficient in **Python**, **R**, **Bash scripting**, and applying **statistical methods** and **bioinformatics tools** to interpret large datasets. I’m always eager to collaborate on **bioinformatics projects** that challenge me and expand my knowledge. If you're working on one, feel free to reach out!
 
----
+
 
 ## 🎓 Education
 
@@ -31,7 +31,7 @@ Proficient in **Python**, **R**, **Bash scripting**, and applying **statistical 
   *M S Ramaiah College of Arts, Science and Commerce, Bengaluru*  
   *July 2019 – Sept 2022*
 
----
+
 
 ## 🛠 Professional Skills
 
@@ -43,26 +43,26 @@ Proficient in **Python**, **R**, **Bash scripting**, and applying **statistical 
 - **Databases**: Ensembl, UCSC Genome Browser, FASTQ, BAM, SAM, VCF
 - **Soft Skills**: Problem-solving, Collaboration, Teamwork, Adaptability
 
----
+
 
 ## 📜 Certifications
 
 - **Transcriptome and Metagenome Sequencing** | Bionivid Technology Pvt Ltd | *Dec 2023*
 - **NGS Technologies: Data Analysis & Applications** | NPTEL | *Oct 2023*
 
----
+
 
 ## 🌱 Currently Learning
 
 - **Machine Learning** and **Artificial Intelligence** techniques for bioinformatics, with a focus on integrating them into my analysis.
 
----
+
 
 ## 💬 Let’s Connect!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/ashrithag)
 - 📧 [ashrithag11@gmail.com](mailto:ashrithag11@gmail.com)
 
----
+
 
 # 👇 **Feel free to check out my projects and contributions below!**
