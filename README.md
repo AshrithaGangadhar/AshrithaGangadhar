@@ -1,11 +1,11 @@
-<div align="center">
+<h1 align="center">
   
   **Ashritha G** 
-</div>
-<div align="center">
+</h1>
+<h2 align="center">
   
   **Bioinformatics Analyst | Bioinformatician**
-</div>
+</h2>
 
 ---
 
