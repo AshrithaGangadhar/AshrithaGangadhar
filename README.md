@@ -6,7 +6,7 @@
 
 ## 👩‍🔬 About Me
 
-With a strong background in **Biotechnology** and specialized expertise in **Bioinformatics**, I am passionate about **genomic data analysis**, **NGS technologies**, and **cancer genomics**. Currently, I specialize in:
+With a strong background in **Biotechnology** and specialized expertise in **Bioinformatics**, I am passionate about **metagenomic data analysis**, **NGS technologies**, and **cancer genomics**. Currently, I specialize in:
 
 - **NGS data analysis**: RNA-Seq, metagenomics, transcriptome analysis.
 - **Cancer genomics**: Understanding gene expression profiles and pathways in cancer.
