@@ -12,7 +12,7 @@ With a strong background in **Biotechnology** and specialized expertise in **Bio
 - **Cancer genomics**: Understanding gene expression profiles and pathways in cancer.
 - **Microbiome analysis**: Using cutting-edge bioinformatics tools to decode microbial ecosystems.
 
-Proficient in **Python**, **R**, and **Bash scripting**, I apply **statistical methods** and **bioinformatics tools** to interpret large-scale genomic data. I’m always eager to collaborate on **bioinformatics projects** that challenge me and expand my knowledge. If you're working on **NGS analysis**, **data visualization**, or anything involving **bioinformatics**, feel free to reach out!
+Proficient in **Python**, **R**, **Bash scripting**, and applying **statistical methods** and **bioinformatics tools** to interpret large datasets. I’m always eager to collaborate on **bioinformatics projects** that challenge me and expand my knowledge. If you're working on one, feel free to reach out!
 
 ---
 
