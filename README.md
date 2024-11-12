@@ -9,7 +9,7 @@
 
 <h3 align="center">
   
-  [LinkedIn](https://linkedin.com/in/ashrithag) | [ashrithag11@gmail.com](mailto:ashrithag11@gmail.com)
+  [LinkedIn](https://linkedin.com/in/ashrithag) | [Gmail](mailto:ashrithag11@gmail.com)
 </h3>
 
 ## 👩‍🔬 About Me
