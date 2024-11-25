@@ -2,7 +2,7 @@
 
 With a strong background in **Biotechnology** and specialized expertise in **Bioinformatics**, I have worked on **microarray data analysis**, **metagenomic data analysis**, **NGS data analysis**, and **cancer genomics**. 
 
-Proficient in **Python**, **R**, **Bash scripting**, **Version control systems** like **Git**, **GitHub**, also in applying **statistical methods** and **bioinformatics tools** to interpret large datasets. I’m always eager to collaborate and contribute on **bioinformatics projects** that challenge me and expand my knowledge. If you're working on one, feel free to reach out!
+Proficient in **Python**, **R**, **Bash scripting**, **Version control systems** like **Git**, **GitHub**, also in applying **statistical methods** and **bioinformatics tools** to interpret large datasets. I’m always eager to collaborate and contribute on **bioinformatics projects** that challenge me and expand my knowledge.
 
 ---
 
